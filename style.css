@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
 * {
     margin: 0px;
     padding: 0px;
@@ -33,10 +35,11 @@ header {
 }
 
 .paragrafo {
-    font-size: 34px;
+    font-size: 18.7px;
     letter-spacing: 1px;
     padding-bottom: 30px;
     padding-left: 10.7px;
+    font-family: 'Gloria Hallelujah', Arial, Helvetica, sans-serif;
 }
 
 .teste {
@@ -50,10 +53,11 @@ header {
 }
 
 .paragrafo2 {
-    font-size: 34px;
+    font-size: 18.7px;
     letter-spacing: 1px;
     padding-bottom: 30px;
     color: white;
+    font-family: 'Gloria Hallelujah', Arial, Helvetica, sans-serif;
 }
 
 #segunda-secao {
